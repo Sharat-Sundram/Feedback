@@ -4,7 +4,7 @@
 
 
 
-#coa=computer org. arti.
+#coa=computer org. architecture.
 
 
 
